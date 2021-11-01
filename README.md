@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center"><b>Hi, I'm Oscar! <img src="https://i.giphy.com/media/l0MYtjhrNDLnlKf28/giphy.webp" alt="" width="30"></h1>
+  <h1 align="center"><b>Hi, I'm Oscar! 👋</h1>
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/oscardobsonbrown"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
