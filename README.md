@@ -40,7 +40,8 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 </p>
 <br />
-
+  
+<!-- 
 ---
 
 <br />
@@ -48,3 +49,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=internetoscar&show_icons=true&count_private=true&theme=solarized-light" width="450"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=internetoscar&layout=compact&theme=solarized-light&custom_title=My Languages" width="400" />
 </p>
+ -->
