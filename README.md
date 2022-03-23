@@ -19,7 +19,7 @@
   <br />
 <p>I'm a front-end developer in Perth, Western Australia. I build websites of a different kind. Ones that step a little out of line. Interactive microcosms that capture your imagination. <br><br> to have a positive impact on the world, I strive to work on environmentally friendly projects that combine passion with purpose</p>
 
-<p>:eyes: I’m currently learning ... ReactJS</p> <br />
+<p>:eyes: I’m currently learning ... Web Development at TAFE</p> <br />
 <br />
 <br />
 <p>
