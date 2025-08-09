@@ -8,18 +8,18 @@
 <a href="https://twitter.com/oscar_DobsnBrwn"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 </p>
 <br />
-<p>Enthusiastic Front-End Developer since 2021 using HTML, CSS, Javascript and Python. a11y minded. Scrum & Agile inspired.</p>
+<p>Enthusiastic Fullstack Developer since 2021 using Typescript, Reactjs and PostgreSQL</p>
   <br />
 <h2 align="center">My favorite projects 💻</h2>
   <br />
-<p align="center">working on some projects. Watch this space...</p>
+<p align="center">FireDanger</p>
   <br />
 <h2 align="center">About me 😇</h2>
 <p align="center">Timezone: Australia/Perth (AWST)</p>
   <br />
-<p>I'm a front-end developer in Perth, Western Australia. I build websites of a different kind. Ones that step a little out of line. Interactive microcosms that capture your imagination. <br><br> to have a positive impact on the world, I strive to work on environmentally friendly projects that combine passion with purpose</p>
+<p>I'm a fullstack developer in Perth, Western Australia. I build apps and products solving problems for humans. I always strive to work on environmentally friendly projects that combine passion with purpose</p>
 
-<p>:eyes: I’m currently learning: Fullstack Open</p> <br />
+<p>:eyes: I’m currently building Supagymn</p> <br />
 <br />
 <br />
 <p>
